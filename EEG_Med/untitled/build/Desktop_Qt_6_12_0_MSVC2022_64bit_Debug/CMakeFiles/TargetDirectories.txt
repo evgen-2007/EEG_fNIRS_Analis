@@ -1,0 +1,8 @@
+C:/Users/user/Desktop/EEG_Med/untitled/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/CMakeFiles/untitled.dir
+C:/Users/user/Desktop/EEG_Med/untitled/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/EEG_Med/untitled/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Desktop/EEG_Med/untitled/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/CMakeFiles/list_install_components.dir
+C:/Users/user/Desktop/EEG_Med/untitled/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/CMakeFiles/install.dir
+C:/Users/user/Desktop/EEG_Med/untitled/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/CMakeFiles/install/local.dir
+C:/Users/user/Desktop/EEG_Med/untitled/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/CMakeFiles/untitled_autogen_timestamp_deps.dir
+C:/Users/user/Desktop/EEG_Med/untitled/build/Desktop_Qt_6_12_0_MSVC2022_64bit_Debug/CMakeFiles/untitled_autogen.dir
